@@ -9,7 +9,7 @@ Students often struggle with cooking — limited ingredients, lack of time, and 
 - Generate grocery lists
 - Reduce food waste with smart substitutions
 
-👉 [Live Demo (Wix Site)](https://my-site-1hnnnu8n-ramyabachala183.wix-vibe.com/)
+👉 [Live Demo (Wix Site)](https://jr53cs-my-site-1hnnnu8n-ramyabachala183.wix-vibe.com/)
 
 ---
 
